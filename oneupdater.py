@@ -1,5 +1,6 @@
 import pandas as pd
-import pdblp
+if bbg:
+    import pdblp
 from typing import Optional
 import os
 from datetime import datetime, timedelta, date
